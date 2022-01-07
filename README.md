@@ -12,10 +12,10 @@ I'm an Ecuadorian python programmer, passionate about creating and learning abou
 ## Github stats 📊
 
 <p align="center">
-  <a href="https://github.com/ashutoshkrris/ashutoshkrris">
+  <a href="https://github.com/rrequeena">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrequeena&theme=blue-green" />
   </a>
-  <a href="https://github.com/ashutoshkrris/ashutoshkrris">
+  <a href="https://github.com/rrequeena">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rrequeena&show_icons=true&line_height=27&count_private=true&&theme=blue-green" alt="Ashutosh's GitHub Stats" />
   </a>
 </p>

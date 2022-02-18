@@ -3,7 +3,7 @@
 
 I'm an Ecuadorian python programmer, passionate about creating and learning about data products applying artificial intelligence techniques.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232CB50D&lines=Aspiring+Data+Scientist;Python+Programmer;Tech+lover+%F0%9F%92%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232CB50D&lines=Data+Scientist;Python+Programmer;Tech+lover+%F0%9F%92%9A)](https://git.io/typing-svg)
 
 ## Techonologies 🔧
 

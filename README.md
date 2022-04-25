@@ -5,17 +5,21 @@ I'm an Ecuadorian Data Scientist, passionate about creating and learning about d
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232CB50D&lines=Data+Scientist;Python+Programmer;Tech+lover+%F0%9F%92%9A)](https://git.io/typing-svg)
 
+I've been learning about Data Science and Machine Learning, participating in Data Projects for clients and me for 1+ year. These projects included Exploratory Data Analysis, Data Preprocessing, model training using Scikit Learn, and some Tensorflow basics tasks.
+
 ## Techonologies 🔧
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-## Github stats 📊
-
-<p align="center">
-  <a href="https://github.com/rrequeena">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrequeena&theme=blue-green" />
-  </a>
-  <a href="https://github.com/rrequeena">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rrequeena&show_icons=true&line_height=27&count_private=true&&theme=blue-green" alt="Ashutosh's GitHub Stats" />
-  </a>
-</p>
+<details>
+  <summary><b>Github Stats 📊</b></summary>
+<br>
+  <p align="center">
+    <a href="https://github.com/rrequeena">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrequeena&theme=blue-green" />
+    </a>
+    <a href="https://github.com/rrequeena">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=rrequeena&show_icons=true&line_height=27&count_private=true&&theme=blue-green" alt="Ashutosh's GitHub Stats" />
+    </a>
+  </p>
+</details>

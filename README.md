@@ -2,11 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rrequeena) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rrequeena) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rrequeena/) [![My blog](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://patriciorequena.com/blog/) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://s.team/p/tbp-grmj/rqvgnfvm)
 
-I'm an Ecuadorian AI / Machine Learning Engineer, passionate about creating and learning about data products applying artificial intelligence techniques and Generative AI Models.
+I'm an Ecuadorian AI / Machine Learning Engineer, passionate about creating and learning about data products, applying artificial intelligence techniques, and Generative AI Models.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232CB50D&lines=AI+Engineer;Machine+Learning+Engineer;Tech+lover+%F0%9F%92%9A)](https://git.io/typing-svg)
 
-I have 4+ years of experience designing and deploying AI solutions and data products, from search and personalization systems to generative AI applications, leveraging scalable pipelines, cloud platforms, and machine learning engineering.  
+I have over 4 years of experience designing and deploying AI solutions and data products, ranging from search and personalization systems to AI applications, utilizing scalable pipelines, cloud platforms, and machine learning engineering.  
 
 ## Techonologies 🔧
 
@@ -45,7 +45,7 @@ I have 4+ years of experience designing and deploying AI solutions and data prod
 ## **Data Scientist — Search & Personalization, Rappi**  
 **Remote** · *July 2021 – Nov 2023 (2 yrs+)*  
 
-- Worked on recommendation projects in the CPG (Customer Packaged Good) team.
+- Worked on recommendation projects in the CPG (Customer Packaged Goods) team.
 - Built data pipelines using Apache Airflow to execute different projects.
 - Worked with large-scale data pipelines, A/B testing, and real-time personalization systems.  
 - Delivered measurable improvements in user engagement and conversion metrics across the platform.  

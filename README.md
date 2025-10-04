@@ -6,7 +6,7 @@ I'm an Ecuadorian AI / Machine Learning Engineer, passionate about creating and 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232CB50D&lines=AI+Engineer;Machine+Learning+Engineer;Tech+lover+%F0%9F%92%9A)](https://git.io/typing-svg)
 
-I've been learning about Data Science and Machine Learning, participating in Data Projects for clients and companies for 3+ years. These projects included Exploratory Data Analysis, Data Preprocessing, model training, microservice development, GenAI Applications.
+I have 4+ years of experience designing and deploying AI solutions and data products, from search and personalization systems to generative AI applications, leveraging scalable pipelines, cloud platforms, and machine learning engineering.  
 
 ## Techonologies 🔧
 

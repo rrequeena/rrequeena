@@ -1,13 +1,13 @@
 # Hey there 🤝! I'm Patricio Requena :robot::computer:
 
-
-<p align="center" style="margin: 20px 0;">
-  <a href="https://www.toptal.com/developers/resume/patricio-requena#8ZMxgM" target="_blank">
-    <img src="https://img.shields.io/badge/Toptal-Top%203%25%20Talent-204ecf?style=for-the-badge&logo=toptal&logoColor=white" alt="Toptal Top 3% Talent" height="38" />
-  </a>
+<p align="center">
+  <a href="https://www.toptal.com/developers/resume/patricio-requena#8ZMxgM"><img src="https://img.shields.io/badge/Toptal-Top%203%25%20Talent-204ecf?style=for-the-badge&logo=toptal&logoColor=white" alt="Toptal Top 3% Talent" /></a>
+  <a href="https://linkedin.com/in/rrequeena"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/rrequeena"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://github.com/rrequeena/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://patriciorequena.com/blog/"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="https://s.team/p/tbp-grmj/rqvgnfvm"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
 </p>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rrequeena) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rrequeena) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rrequeena/) [![My blog](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://patriciorequena.com/blog/) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://s.team/p/tbp-grmj/rqvgnfvm)
 
 I'm an Ecuadorian AI / Machine Learning Engineer, passionate about creating and learning about data products, applying artificial intelligence techniques, and Generative AI Models.
 
